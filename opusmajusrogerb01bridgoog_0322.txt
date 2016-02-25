@@ -1,0 +1,54 @@
+MATHEMATICAE IN PHYSICIS UTILITAS. 125
+
+possunt radii exeuntes a terminis diametri corporis majoris
+transire ultra diametrum corporis minoris, ut majorem ejus
+portionem comprehendaut3 et e contrario corporis majoris
+
+010 0
+
+Fro. 9.
+
+minor portio recipit virtutem a minori corpore, quia diameter
+minoris corporis non aequatur diametro majoriS, sed alicui
+chordae minoris portionis corporis majoris. Et nullus punctus
+sphaerici corporis potest lacere virtutem a se, nisi ad spatium
+quod separatur ab eo per lineam quae contingat illud corpus
+in puncto illo a quo iit virtus; quoniam ab a puncto non
+potest aliqua linea cadere inter lineam contingentem et corpus
+sphaericum, ut demonstratur in
+
+xv tertii elementorum Euclidis.
+
+Et ideo spatium, quod est in
+
+angulo contingentiae, et sic per
+
+totam retro lineam contingentem
+
+versus corpus, non recipiet vir-
+
+tutem ab a puncto, sed totum
+
+spatium ultra lineam contin· e
+
+gentiae, in quo sunt puncta bede, d
+
+recipiet virtutem. Et omnes b
+radii qui exeunt a superficie cor·
+poris sphaerici, quorum directio
+cadit in centrum corporis illius, sunt perpendiculares super
+¹ipsum et tales undique exeunt infiniti ut patet in figura.
+Et turn ab eodem puncto superficiei eorporis, a quo fit
+radius perpendicularis, super idem corpus fiunt radii infiniti,
+ut patet ad a punctum, et sic de omnibus; sed unus solus,
+scilicet a b, radius est perpendicularis super illud corpus,
+quia ille solus, si protrahatur in continuum et directum, vadit
+in centrum corporis, et ideo ille est fortissimus et habet louge
+plus de virtute.
+
+0
+
+Fre. ιο.
+
+ 
+
